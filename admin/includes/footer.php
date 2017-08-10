@@ -1,0 +1,1 @@
+<div class="foot"> This is footer</div>

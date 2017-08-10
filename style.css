@@ -1,0 +1,124 @@
+body{
+margin: 0;
+padding:0;
+}
+
+#top{
+width: 100%;
+height: 50px;
+background: #191970;
+color: white;
+margin: 0 auto;
+font-family: comic sans MS;
+}
+#top p{
+margin: 0 auto;
+padding-top: 15px;
+margin-left: 50px;
+font-family: comic sans MS;
+}
+
+#header{
+margin-top:3px;
+width:1000px;
+height:130px;
+border-top: 2px solid gray;
+margin-left: auto;
+margin-right: auto;
+font-family: comic sans MS;
+}
+
+.navbar{
+width:1500px;
+height:60px;
+background: red;
+margin-left: auto;
+margin-right: auto;	
+font-family: comic sans MS;
+}
+
+.searchbox { 
+float: right;
+padding-top: 6px;
+font-family: comic sans MS;
+}
+
+#menu {
+width: 700px;	
+float: left;	
+font-family: comic sans MS;
+}
+#menu ul{
+margin: 0;
+padding-top: 5px;
+line-height: 2em;
+font-family: comic sans MS;
+}
+
+
+#menu ul li{
+list-style: none;
+display: inline;
+margin: 5px;
+width: 60px;		
+font-family: comic sans MS;
+}
+
+#menu ul li a:link{
+color: white; 
+margin: 5px;
+padding: 3px;
+text-decoration:none;
+font-family: comic sans MS;
+}
+
+#menu ul li a:hover{
+color: gray; 
+text-decoration:underline;
+font-family: comic sans MS;
+}
+
+.post_body{
+float:left;
+margin-left:400px;
+width:1200px;
+background:white;	
+border-right: 2px solid #708090;
+font-family: comic sans MS;
+}
+
+.post_body a: link{
+margin-right: 6px;	
+font-size: 24px;
+font-family: comic sans MS;
+}
+
+#sidebar{
+width:300px;
+background:gray;
+float:right;
+margin-right:210px;
+font-family: comic sans MS;
+}
+
+.cont{
+margin: auto;
+clear: both;
+}
+.foot{
+width: 100%;
+height: 50px;
+background: black;
+font-family: comic sans MS;
+clear:both;
+}
+.clocks{
+float:right;
+margin-right:150px;
+padding-top: 10px;
+border: 5px solid gray;
+background: orange;
+border-radius: 30px;
+width:100px;
+text-align:center;
+}

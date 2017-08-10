@@ -1,0 +1,30 @@
+body{
+color: gray;	
+padding: 0;
+margin: 0;
+background: url(123.jpg);
+}
+
+header{
+width: 100%;	
+height: 150px;
+background: orange;
+text-align: center;
+padding: 10px;
+border-bottom : 5px solid blue;
+font-family: comic sans MS;
+}
+
+aside{
+float: left;
+background: aqua;
+width: 400px;
+height: 1500px;
+border-right: 5px solid blue;
+text-align:center;
+font-family: comic sans MS;
+}
+aside a:link, a:hover{
+color: blue;
+font-family: comic sans MS;	
+}
